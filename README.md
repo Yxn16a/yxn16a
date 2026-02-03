@@ -30,7 +30,7 @@
 - 💨 Tailwind CSS
 - 🍃 Thymeleaf
 
----
+
 
 ## 💻 What I Do
 - 🚀 Build full-stack web and mobile applications
@@ -39,14 +39,13 @@
 - 🤖 Develop and experiment with machine learning models
 - 🌍 Contribute to open-source projects (including Sequelize ORM)
 
----
+
 
 ## 📈 Currently
 - 📚 Learning something new every day
 - 🛠️ Sharing what I learn through projects and posts
 - 🤝 Expanding my open-source contributions
 
----
 
 ## 🎉 Fun Fact
 - 😄 I genuinely enjoy learning and building. One commit at a time.
